@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is ** Konde Ramzy Gbati ** and I am learning open source at Codetopia.
+My name is **Konde Ramzy Gbati** and I am learning open source at Codetopia.
 
 ## What I Have Learned So Far
 
